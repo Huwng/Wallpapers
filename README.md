@@ -8,10 +8,12 @@
 
 and oh yeah no preview since too much effort  
 
-##### How to download?
+---
+### How to download?
 
 Clone this repo with Git or click the green Code button. 
 
+---
 Some notable source:  
 - https://www.artstation.com/aenamiart
 - [r/wallpapers](https://reddit.com/r/wallpapers)
